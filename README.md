@@ -1,1 +1,32 @@
-# projects-ist
+## IST Projects
+List of projects I've worked on during my Computer Science degree at IST:
+
+- IAED (Introduction to Algorithms and Data Structures)
+  - Project - [Parking Lot Management System](https://github.com/lara-gfaria/iaed-proj)
+- PO (Object-oriented Programming)
+  - Project - [Spreadsheet Manager](https://github.com/lara-gfaria/po-proj)
+- SO (Operating Systems)
+  - Project 1 - [Event Managment System](https://github.com/lara-gfaria/so-proj1)
+  - Project 2 - [Event Managment System pt.2](https://github.com/lara-gfaria/so-proj2)
+- ASA (Analysis and Synthesis of Algorithms)
+  - Project 1 - [2D Knapsack Problem](https://github.com/lara-gfaria/asa-proj1)
+  - Project 2 - [Disease Spread Calculation](https://github.com/lara-gfaria/asa-proj2)
+  - Project 3 - [Linear Programming](https://github.com/lara-gfaria/asa-proj3)
+- IPM (Human-Computer Interaction)
+  - Project - [Speed Game](https://github.com/lara-gfaria/ipm-proj)
+- IA (Artifitial Inteligence)
+  - Project - [PipeMania Solver](https://github.com/lara-gfaria/ai-proj)
+- BD (Data Base)
+  - Project - [Health Clinics DB](https://github.com/lara-gfaria/bd-proj)
+- Apren (Machine Learning)
+  - [Projects](https://github.com/lara-gfaria/apre-proj)
+    - Project 1 - Decision Trees
+    - Project 2 - kNN & Bayesian Learning  
+    - Project 3 - Linear Regression & Neural Networks
+    - Project 4 - Clustering
+- RC (Computer Networks)
+  - Project - [Master Mind with Sockets](https://github.com/lara-gfaria/rc-proj)
+- SD (Distributed Systems)
+  - Project - [Distributed TupleSpaces](https://github.com/lara-gfaria/sd-proj)
+- ES (Software Engineer)
+  - Project - [HumanaEtica Website](https://github.com/lara-gfaria/es-proj)
